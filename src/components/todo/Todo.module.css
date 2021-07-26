@@ -1,0 +1,11 @@
+.todoItem {
+  text-align: left;
+}
+
+.todoItem label {
+  padding-right: .25em;
+}
+
+.todoItem.completed label {
+  text-decoration: line-through;
+}
